@@ -1,4 +1,4 @@
-# hytale_plugin_init
+# Hytale Plugin Initializer
 A command line tool to initialize a template for your Hytale Plugin
 
 ## Usage:
